@@ -7,6 +7,8 @@ Ghostty runs one copy of the shader per split. The focused split is left
 untouched; the others get green glyph rain wherever they show the terminal's
 default background, so their text stays readable on top of it.
 
+![An animated demo of the ghostty-matrix-shader](assets/demo.avif)
+
 ## Requirements
 
 - Ghostty 1.3 or later, for the `iFocus` and `iBackgroundColor` shader uniforms.
